@@ -1,5 +1,5 @@
 {
-    "org.webosports.service.certmgrd": [ 
+    "org.webosports.service.certmgr": [ 
         "applications",
         "applications.internal",
         "services",
